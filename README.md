@@ -14,7 +14,7 @@ Organized and well-commented code
 HTML5
 CSS3
 Bootstrap 5
-📷 Screenshots
+# Screenshots
 
 ![Zight Recording 2025-04-08 at 11 20 32 AM](https://github.com/user-attachments/assets/a922dbd8-3d72-483a-bc50-a111ada2ec2a)
 
