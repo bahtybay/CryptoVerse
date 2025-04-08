@@ -1,14 +1,15 @@
 # CryptoVerse
 This is a simple and responsive website built using HTML, CSS, and Bootstrap. The project is designed to be clean, user-friendly, and fully responsive across different devices.
 
-🚀 Features
+# Features
 
 Fully responsive layout
 Built with Bootstrap 5
 Clean and modern design
 Mobile-friendly
 Organized and well-commented code
-🛠 Technologies Used
+
+#Technologies Used
 
 HTML5
 CSS3
